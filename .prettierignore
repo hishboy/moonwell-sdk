@@ -1,0 +1,12 @@
+*.ts
+*.tsx
+*.js
+*.jsx
+*.json
+*.css
+*.scss
+*.html
+*.md
+
+# Ignore everything
+**/* 
